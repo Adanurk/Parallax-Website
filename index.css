@@ -36,6 +36,7 @@ html, body{
     background-size: cover;
     background-repeat: no-repeat;
     /* to do parallax  effect*/
+    background-attachment: fixed;
     /*
     centering with filex:
     display: flex;
