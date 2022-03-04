@@ -19,7 +19,7 @@ Project aims to create parallax website.
 ```
 ## Objective
 
-Build a Landing
+Build a Landing Page
 
 ### At the end of the project, following topics are to be covered;
 
