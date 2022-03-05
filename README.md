@@ -5,18 +5,6 @@ Project aims to create parallax website.
 
 - Your company has recently started on a project that aims to create a parallax website. So you and your colleagues have started to work on the project.
 
-## Project Skeleton 
-
-```
-003-parallax-website (folder)
-|
-|----readme.md      
-|----images   
-|----solution
-        |----index.html  
-        |----style.css   
-        |----images
-```
 ## Objective
 
 Build a Landing
